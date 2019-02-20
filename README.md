@@ -13,7 +13,7 @@ git branch "small updates"
 git checkout small updates"
  
 3. Using VIM or PyCharm or the editor of your choice, make a change to this file, adding "McKenna was here" below: 
-
+McKenna was here
 4. Use the following commands to add and commit your changes:
 
 git add README.md
