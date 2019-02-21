@@ -17,7 +17,7 @@ Begin by downloading git onto your local machine. Now, visiting the BRCAExchange
 5. Then, either using TextEdit or vim, format the file in markdown. Use [this guide](https://www.markdownguide.org/getting-started) to get started, and [this markdown cheat sheet](https://www.markdownguide.org/cheat-sheet) for formatting rules and guidelines.  
 
 
-6. OPEN the VariantMerging.md file using vim. Many editors have trouble with markdown files, so vim is a pretty good editor for this. Delete the existing content, and replace it with your draft 0. 
+6. OPEN the VariantMergingDraft0.md file using vim. Many editors have trouble with markdown files, so vim is a pretty good editor for this. Delete the existing content, and replace it with your draft 0.
 
 7. Using vim, write up this week's reflection in a new .md file using markdown format, and ensuring that the file is a .md. Reflect on using git and markdown.  
 
