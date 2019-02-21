@@ -8,28 +8,30 @@ Begin by downloading git onto your local machine. Now, visiting the BRCAExchange
 
 1. Make sure you are in /BRCAExchangeWinterInternship
 
-2. Using the following command, make your own branch, calling it 'smallUpdates'
-git branch "small updates"
-git checkout small updates"
- 
-3. Using VIM or PyCharm or the editor of your choice, make a change to this file, adding "McKenna was here" below: 
-McKenna was here
-4. Use the following commands to add and commit your changes:
+2. Run a git pull origin master command to ensure you are up to date. Now, use git checkout -b draftZero to make a branch for this assignment. 
 
-git add README.md
-git commit README.md -m "changed ReadMe"
+3. Using Google Docs, write a "draft 0" of the docs we are working on creating. Pretend that I am a clueless mentor who has asked you to write these docs without much background knowledge of the site. Based on our limited conversations and your exposure to the project, write up as much as you know about variant merging on brcaexchange.org. This does not have to be good, accurate, or complete. The idea is to get you started thinking about the docs.  
 
-The file has now been changed and commited to your local git repo. Visit the github repo through github.com. Do you see this change in the ReadMe? 
+4. Once you are relatively satisfied with your draft 0, copy and paste all text into a .txt file using TextEdit. Go to the top left, and hit Format > Make Plain Text. This helps resolve any weird underlying special characters and unicode that might be in the file. Without this step, you might end up getting an "unexpected token" error if the markdown was rendered in javascript for brcaexchange.org. 
 
-3. The answer to the above is no, because you only committed to your local git repo. Now it is time to PUSH these changes to a remote branch:
+5. Then, either using TextEdit or vim, format the file in markdown. Use [this guide](https://www.markdownguide.org/getting-started) to get started, and [this markdown cheat sheet](https://www.markdownguide.org/cheat-sheet) for formatting rules and guidelines.  
 
-git push
 
-You may have to type in your github account and password. 
+6. OPEN the VariantMerging.md file using vim. Many editors have trouble with markdown files, so vim is a pretty good editor for this. Delete the existing content, and replace it with your draft 0. 
 
-Now do you see the changes reflected? No? In the github.com UI, while visiting the repo, click branch. Do you see your branch? Great, click it. Now do you see the changes reflected? Awesome. 
+7. Using vim, write up this week's reflection in a new .md file using markdown format, and ensuring that the file is a .md. Reflect on using git and markdown.  
 
-4. Now, you want to make a pull request. This can be done with the github UI. 
+8. Submit a pull request to merge the changes from the branch into the repo's master branch. 
 
-4. The answer is no. This is because you need to submit a pull request, requesting that I merge your changes into the master repository. 
+
+
+
+
+
+
+
+
+
+
+
 
