@@ -21,7 +21,7 @@ Begin by downloading git onto your local machine. Now, visiting the BRCAExchange
 
 7. Using vim, write up this week's reflection in a new .md file using markdown format, and ensuring that the file is a .md. Reflect on using git and markdown.  
 
-8. Submit a pull request to merge the changes from the branch into the repo's master branch. 
+8. Push these changes. Submit a pull request to merge the changes from the draftZero branch into the repo's master branch. 
 
 
 
