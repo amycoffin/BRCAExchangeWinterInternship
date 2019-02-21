@@ -2,9 +2,7 @@
 
 Thank you for joining the BRCA Exchange as an intern this quarter. You will collaborate with me on a project using this repository. 
 
-This quarter, we will learn how to fork a master repository, clone it locally, make changes using a branch, push your changes to your fork, and finally, submit a Pull Request so that these changes may be reflected in the master repository. 
-
-Begin by downloading git onto your local machine. Now, visiting the BRCAExchangeWinterInternship repo, clone this repo onto your local machine. Once the repo is cloned locally, make the below changes.   
+Here is your next assignment: 
 
 1. Make sure you are in /BRCAExchangeWinterInternship
 
