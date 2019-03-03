@@ -5,6 +5,7 @@ The primary function of the BRCA Exchange[^1] is to aggregate data related to BR
 1. properly assembled in one place  
 2. that the sources for data are displayed  
 3. that conflicts between data are not erased.  
+
 This project is called *variant merging*, and it removes redundancy while maintaining unresolved data disagreement.  
 
 
