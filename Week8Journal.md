@@ -1,4 +1,4 @@
-# **Tuesday, February 26 - Monday, March 4, 2019:**
+#**Tuesday, February 26 - Monday, March 4, 2019:**
 
 ## **Meetings:**
 - [ ] Tuesday Dev Call, 10- 11am   
@@ -24,5 +24,4 @@ I spent most of my Thursday trying to figure out where and how to properly store
 
 I’m currently waiting for vim to finish downloading so I can finish my second github assignment. Regaining my familiarity with unix commands & directory navigation, and feeling confident about my understanding of github push/pulls. I feel excited to be learning all this again in a structured way. (Thank you Amy, you’re awesome!)
 
-As a 60-project, I also figured out how to set up a google hangouts invite.
-
+As a 60-second project, I also figured out how to set up a google hangouts invite.
