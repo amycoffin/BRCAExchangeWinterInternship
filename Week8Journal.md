@@ -1,4 +1,4 @@
-#**Tuesday, February 26 - Monday, March 4, 2019:**
+# **Tuesday, February 26 - Monday, March 4, 2019:**
 
 ## **Meetings:**
 - [ ] Tuesday Dev Call, 10- 11am   
