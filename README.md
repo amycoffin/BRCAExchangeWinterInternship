@@ -2,7 +2,27 @@
 
 Thank you for joining the BRCA Exchange as an intern this quarter. You will collaborate with me on a project using this repository. 
 
-Here is your next assignment: 
+Here is your final github assignment for this quarter:
+1. Make sure you are in /BRCAExchangeWinterInternship
+
+2. Run a git pull origin master command to ensure you are up to date. Now, use git checkout -b draftOne to make a branch for this assignment.
+
+3. Draft at least one version of an updated "What is the BRCA Exchange" using google docs. Then, make modifications using the files in step 4, using plain text files as an intermediate to ensure that you are not introducing unwanted characters. 
+
+4. Render at least one version of an update in markdown using the what-is-the-brca-exhchange.md file contained in this repo. If you need to make a copy, feel free to use the "cp" command, indicating that you would like to copy the same folder to the current directory under a new name (i.e. "cp what-is-the-brca-exchange.md what-is-the brca-exchange-2.md". (You are copying one file's contents to a new name in the repo you are currently in). Include a hyperlink to the meeting notes in each draft.
+
+5. Push these changes using "git push origin draftOne". This will create a branch on remote. Submit a pull request to merge the changes from the draftOne branch into the repo's master branch.  
+
+6. You will be graded on: 
+* the draft(s) is(are) complete and covers reasonable amounts of material in accordance with, and taking direction from, the discussion with other team members 
+* content is written and rewritten for clairty and concise communication, with indication that content was written with user in mind (i.e. clear structure in both sentences and content organization)
+* markdown is well written and contains little to no errors
+* a branch was used to push changes to github, and a pull request was submitted to me for approval
+
+Thanks for helping me get this piece of documentation drafted! 
+
+
+Here is your second github assignment (completed February 28): 
 
 1. Make sure you are in /BRCAExchangeWinterInternship
 
