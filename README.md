@@ -13,7 +13,9 @@ Here is your final github assignment for this quarter:
 
 5. Push these changes using "git push origin draftOne". This will create a branch on remote. Submit a pull request to merge the changes from the draftOne branch into the repo's master branch.  
 
-6. You will be graded on: 
+6. Once your changes are pushed, check your markdown on the UI.
+
+7. You will be graded on: 
 * the draft(s) is(are) complete and covers reasonable amounts of material in accordance with, and taking direction from, the discussion with other team members 
 * content is written and rewritten for clairty and concise communication, with indication that content was written with user in mind (i.e. clear structure in both sentences and content organization)
 * markdown is well written and contains little to no errors
